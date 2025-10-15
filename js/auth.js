@@ -22,7 +22,6 @@ function switchForm(formType) {
 
 window.switchForm = switchForm;
 
-
 // ===== THEME TOGGLE FOR AUTH PAGES =====
 (() => {
   const themeToggleBtn = document.getElementById('themeToggle') || document.querySelector('.theme-toggle');
